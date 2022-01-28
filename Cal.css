@@ -1,0 +1,95 @@
+#calculator{
+background-color: azure;
+    width: 523px;
+    height: 415px;
+    border: 1px solid blanchedalmond;
+    border-radius: 17px;
+    position: relative;
+    left: 378px;
+    top: 32px;
+        box-shadow: 20px 20px 10px;
+}
+h1
+{
+    
+
+    position: relative;
+    left: 146px;
+    font-family: monospace;
+    font-size: xxx-large;
+    text-shadow: 2px 2px 5px darkgreen;
+}
+body
+{
+    
+
+    background-color: darkslategrey;
+}
+#a
+{
+        position: relative;
+    left: 120px;
+    width: 271px;
+    height: 45px;
+    border: solid 2px black;
+    border-radius: 13px;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+        font-family: fantasy;
+}
+.btn
+{
+    
+        width: 62px;
+    height: 35px;
+    font-size: 23px;
+    font-family: fantasy;
+    
+}
+#btn1
+{
+   
+    width: 248px;
+    height: 216px;
+    position: relative;
+    left: 159px;
+    top: 12px;
+    border-radius: 44px;
+}
+
+.btn:active
+{
+    position:relative;
+    top:1;
+}
+#back
+{
+      width: 62px;
+    height: 35px;
+    font-size: 23px;
+    font-family: fantasy;
+    position: relative;
+    left: 226px;
+    bottom: 28px;
+}
+#Sqrt{
+width: 62px;
+    height: 35px;
+    font-size: 23px;
+    font-family: fantasy;
+    position: relative;
+    left: 226px;
+    bottom: 28px;
+}
+#point
+{
+    width: 62px;
+    height: 35px;
+    font-size: 23px;
+    font-family: fantasy;
+        position: relative;
+    left: 94px;
+    top: 8px;
+}
+    
